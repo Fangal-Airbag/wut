@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['acpmetaxml_5868',['ACPMetaXml',['../group__nn__acp__title.html#structACPMetaXml',1,'']]],
+  ['addrinfo_5869',['addrinfo',['../netdb_8h.html#structaddrinfo',1,'']]],
+  ['admininfo_5870',['AdminInfo',['../namespacenn_1_1nfp.html#structnn_1_1nfp_1_1AdminInfo',1,'nn::nfp']]],
+  ['amiibosettingsargs_5871',['AmiiboSettingsArgs',['../namespacenn_1_1nfp.html#structnn_1_1nfp_1_1AmiiboSettingsArgs',1,'nn::nfp']]],
+  ['amiibosettingsargsin_5872',['AmiiboSettingsArgsIn',['../namespacenn_1_1nfp.html#structnn_1_1nfp_1_1AmiiboSettingsArgsIn',1,'nn::nfp']]],
+  ['amiibosettingsresult_5873',['AmiiboSettingsResult',['../namespacenn_1_1nfp.html#structnn_1_1nfp_1_1AmiiboSettingsResult',1,'nn::nfp']]],
+  ['appeararg_5874',['AppearArg',['../namespacenn_1_1swkbd.html#structnn_1_1swkbd_1_1AppearArg',1,'AppearArg'],['../namespacenn_1_1erreula.html#structnn_1_1erreula_1_1AppearArg',1,'AppearArg']]],
+  ['applicationareacreateinfo_5875',['ApplicationAreaCreateInfo',['../namespacenn_1_1nfp.html#structnn_1_1nfp_1_1ApplicationAreaCreateInfo',1,'nn::nfp']]],
+  ['axinitparams_5876',['AXInitParams',['../group__sndcore2__core.html#structAXInitParams',1,'']]],
+  ['axprofile_5877',['AXProfile',['../group__sndcore2__core.html#structAXProfile',1,'']]],
+  ['axtransitionaudiobuffer_5878',['AXTransitionAudioBuffer',['../group__sndcore2__core.html#structAXTransitionAudioBuffer',1,'']]],
+  ['axvoice_5879',['AXVoice',['../group__sndcore2__voice.html#structAXVoice',1,'']]],
+  ['axvoiceadpcm_5880',['AXVoiceAdpcm',['../group__sndcore2__voice.html#structAXVoiceAdpcm',1,'']]],
+  ['axvoiceadpcmloopdata_5881',['AXVoiceAdpcmLoopData',['../group__sndcore2__voice.html#structAXVoiceAdpcmLoopData',1,'']]],
+  ['axvoicedevicebusmixdata_5882',['AXVoiceDeviceBusMixData',['../group__sndcore2__voice.html#structAXVoiceDeviceBusMixData',1,'']]],
+  ['axvoicedevicemixdata_5883',['AXVoiceDeviceMixData',['../group__sndcore2__voice.html#structAXVoiceDeviceMixData',1,'']]],
+  ['axvoicelink_5884',['AXVoiceLink',['../group__sndcore2__voice.html#structAXVoiceLink',1,'']]],
+  ['axvoiceoffsets_5885',['AXVoiceOffsets',['../group__sndcore2__voice.html#structAXVoiceOffsets',1,'']]],
+  ['axvoicesrc_5886',['AXVoiceSrc',['../group__sndcore2__voice.html#structAXVoiceSrc',1,'']]],
+  ['axvoicevedata_5887',['AXVoiceVeData',['../group__sndcore2__voice.html#structAXVoiceVeData',1,'']]]
+];
